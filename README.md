@@ -13,4 +13,6 @@
 
 이 4개 주제에 대한 강의자료를 쥬피터 노트북으로 작성하였다.
 
-**작성자**: [박중양](mailto:joongyang.park@gmail.com)
+-------
+
+**작성자**: **박중양** <joongyang.park@gmail.com>
